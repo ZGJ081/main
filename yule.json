@@ -250,7 +250,7 @@
 {"key":"csp_XBPQ_短视频","name":"☘️短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./duanshipin.json"},
 {"key": "js_310直播","name": "🥎┃三一┃直播","type": 3,"api": "./lib/drpy2.min.js", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./310.js"},
 {"key":"csp_XPath_企鹅体育","name":"🐧企鹅体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./qietiyu.json"},
-{"key":"88看球","name":"⚽88看球","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./88kanqiu.js"},
+{"key":"88看球","name":"⚽88看球","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./88看.js"},
 {"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jrk.js"},
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./huyazhibo.js"},
 {"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./douyu.js"},
