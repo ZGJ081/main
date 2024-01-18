@@ -141,6 +141,16 @@
       "filterable": 1,
       "ext": "./哔哩哔哩高中.json"
     },
+    {
+      "key": "儿童编程",
+      "name": "🌏 儿童编程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./儿童编程.json"
+    },
 {"key":"荐片","name":"🎦荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./jianpian.js"},
 {"key": "玩偶哥哥","name":"🎦玩偶|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./玩偶哥哥.json"},
 {"key":"万达影视","name":"🎦万达┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./wandays.json"},
