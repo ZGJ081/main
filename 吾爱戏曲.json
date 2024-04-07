@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex,nofollow" />
+    <link
+      rel="manifest"
+      href="//static.atomgit.com/statics/authing-fe-user-portal/2.29.86/manifest.json"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1.0,user-scalable=no"
+    />
+    
+    <link
+      rel="icon"
+      href="//static.atomgit.com/statics/authing-fe-user-portal/2.29.86/favicon.ico"
+    />
+    
+    <title>Authing</title>
+    <link
+      href="//static.atomgit.com/statics/authing-fe-user-portal/2.29.86/static/css/main.css"
+      rel="stylesheet"
+    />
+    <script>
+      window.__guardVersion__ = 'v2';
+      window.__customLoading__ = 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBkaXNwbGF5OiBibG9jazsiIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KPGRlZnM+CiAgPGZpbHRlciBpZD0ibGRpby10Y3Fpd3V6cmZlaC1maWx0ZXIiIHg9Ii0xMDAlIiB5PSItMTAwJSIgd2lkdGg9IjMwMCUiIGhlaWdodD0iMzAwJSIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJzUkdCIj4KICAgIDxmZUdhdXNzaWFuQmx1ciBpbj0iU291cmNlR3JhcGhpYyIgc3RkRGV2aWF0aW9uPSIyLjQwMDAwMDAwMDAwMDAwMDQiPjwvZmVHYXVzc2lhbkJsdXI+CiAgICA8ZmVDb21wb25lbnRUcmFuc2ZlciByZXN1bHQ9ImN1dG9mZiI+CiAgICAgIDxmZUZ1bmNBIHR5cGU9InRhYmxlIiB0YWJsZVZhbHVlcz0iMCAwIDAgMCAwIDAgMSAxIDEgMSAxIj48L2ZlRnVuY0E+CiAgICA8L2ZlQ29tcG9uZW50VHJhbnNmZXI+CiAgPC9maWx0ZXI+CjwvZGVmcz4KPGcgZmlsdGVyPSJ1cmwoI2xkaW8tdGNxaXd1enJmZWgtZmlsdGVyKSI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTAgNTApIj4KPGc+CiAgPGNpcmNsZSBjeD0iMTQiIGN5PSIwIiByPSI1IiBmaWxsPSIjZTdmMGZiIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIGtleVRpbWVzPSIwOzAuNTsxIiB2YWx1ZXM9IjMuNTk5OTk5OTk5OTk5OTk5Njs4LjM5OTk5OTk5OTk5OTk5OTszLjU5OTk5OTk5OTk5OTk5OTYiIGR1cj0iMi45NDExNzY0NzA1ODgyMzVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjM0cyI+PC9hbmltYXRlPgogIDwvY2lyY2xlPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjA7MzYwIiBkdXI9IjIuOTQxMTc2NDcwNTg4MjM1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2c+CjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MCA1MCkiPgo8Zz4KICA8Y2lyY2xlIGN4PSIxNCIgY3k9IjAiIHI9IjUiIGZpbGw9IiNhOWNjZjEiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iciIga2V5VGltZXM9IjA7MC41OzEiIHZhbHVlcz0iMy41OTk5OTk5OTk5OTk5OTk2OzguMzk5OTk5OTk5OTk5OTk5OzMuNTk5OTk5OTk5OTk5OTk5NiIgZHVyPSIxLjQ3MDU4ODIzNTI5NDExNzVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjI1NXMiPjwvYW5pbWF0ZT4KICA8L2NpcmNsZT4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIwOzM2MCIgZHVyPSIxLjQ3MDU4ODIzNTI5NDExNzVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjA4NXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT4KPC9nPgo8L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTAgNTApIj4KPGc+CiAgPGNpcmNsZSBjeD0iMTQiIGN5PSIwIiByPSI1IiBmaWxsPSIjNmVhNmU2Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIGtleVRpbWVzPSIwOzAuNTsxIiB2YWx1ZXM9IjMuNTk5OTk5OTk5OTk5OTk5Njs4LjM5OTk5OTk5OTk5OTk5OTszLjU5OTk5OTk5OTk5OTk5OTYiIGR1cj0iMC45ODAzOTIxNTY4NjI3NDUxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSItMC4xN3MiPjwvYW5pbWF0ZT4KICA8L2NpcmNsZT4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIwOzM2MCIgZHVyPSIwLjk4MDM5MjE1Njg2Mjc0NTFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjE3cyI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2c+CjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MCA1MCkiPgo8Zz4KICA8Y2lyY2xlIGN4PSIxNCIgY3k9IjAiIHI9IjUiIGZpbGw9IiMzNzg0ZGQiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iciIga2V5VGltZXM9IjA7MC41OzEiIHZhbHVlcz0iMy41OTk5OTk5OTk5OTk5OTk2OzguMzk5OTk5OTk5OTk5OTk5OzMuNTk5OTk5OTk5OTk5OTk5NiIgZHVyPSIwLjczNTI5NDExNzY0NzA1ODhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjA4NXMiPjwvYW5pbWF0ZT4KICA8L2NpcmNsZT4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIwOzM2MCIgZHVyPSIwLjczNTI5NDExNzY0NzA1ODhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjI1NXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT4KPC9nPgo8L2c+PC9nPgo8L3N2Zz4=';
+    </script>
+
+    
+
+     
+    <style>
+      #root  .authing-user-portal-layout{
+        background:rgba(248, 249, 255, 100);
+       }
+     
+    </style>
+    
+  </head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root">
+    <div class="authing-user-portal-layout"
+      style="width: 100vw; height: 100vh; display: flex; align-items: center; justify-content: center; top:0; left:0; position: absolute; z-index: 9999">
+      
+      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBkaXNwbGF5OiBibG9jazsiIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KPGRlZnM+CiAgPGZpbHRlciBpZD0ibGRpby10Y3Fpd3V6cmZlaC1maWx0ZXIiIHg9Ii0xMDAlIiB5PSItMTAwJSIgd2lkdGg9IjMwMCUiIGhlaWdodD0iMzAwJSIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJzUkdCIj4KICAgIDxmZUdhdXNzaWFuQmx1ciBpbj0iU291cmNlR3JhcGhpYyIgc3RkRGV2aWF0aW9uPSIyLjQwMDAwMDAwMDAwMDAwMDQiPjwvZmVHYXVzc2lhbkJsdXI+CiAgICA8ZmVDb21wb25lbnRUcmFuc2ZlciByZXN1bHQ9ImN1dG9mZiI+CiAgICAgIDxmZUZ1bmNBIHR5cGU9InRhYmxlIiB0YWJsZVZhbHVlcz0iMCAwIDAgMCAwIDAgMSAxIDEgMSAxIj48L2ZlRnVuY0E+CiAgICA8L2ZlQ29tcG9uZW50VHJhbnNmZXI+CiAgPC9maWx0ZXI+CjwvZGVmcz4KPGcgZmlsdGVyPSJ1cmwoI2xkaW8tdGNxaXd1enJmZWgtZmlsdGVyKSI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTAgNTApIj4KPGc+CiAgPGNpcmNsZSBjeD0iMTQiIGN5PSIwIiByPSI1IiBmaWxsPSIjZTdmMGZiIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIGtleVRpbWVzPSIwOzAuNTsxIiB2YWx1ZXM9IjMuNTk5OTk5OTk5OTk5OTk5Njs4LjM5OTk5OTk5OTk5OTk5OTszLjU5OTk5OTk5OTk5OTk5OTYiIGR1cj0iMi45NDExNzY0NzA1ODgyMzVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjM0cyI+PC9hbmltYXRlPgogIDwvY2lyY2xlPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBrZXlUaW1lcz0iMDsxIiB2YWx1ZXM9IjA7MzYwIiBkdXI9IjIuOTQxMTc2NDcwNTg4MjM1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2c+CjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MCA1MCkiPgo8Zz4KICA8Y2lyY2xlIGN4PSIxNCIgY3k9IjAiIHI9IjUiIGZpbGw9IiNhOWNjZjEiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iciIga2V5VGltZXM9IjA7MC41OzEiIHZhbHVlcz0iMy41OTk5OTk5OTk5OTk5OTk2OzguMzk5OTk5OTk5OTk5OTk5OzMuNTk5OTk5OTk5OTk5OTk5NiIgZHVyPSIxLjQ3MDU4ODIzNTI5NDExNzVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjI1NXMiPjwvYW5pbWF0ZT4KICA8L2NpcmNsZT4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIwOzM2MCIgZHVyPSIxLjQ3MDU4ODIzNTI5NDExNzVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjA4NXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT4KPC9nPgo8L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTAgNTApIj4KPGc+CiAgPGNpcmNsZSBjeD0iMTQiIGN5PSIwIiByPSI1IiBmaWxsPSIjNmVhNmU2Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIGtleVRpbWVzPSIwOzAuNTsxIiB2YWx1ZXM9IjMuNTk5OTk5OTk5OTk5OTk5Njs4LjM5OTk5OTk5OTk5OTk5OTszLjU5OTk5OTk5OTk5OTk5OTYiIGR1cj0iMC45ODAzOTIxNTY4NjI3NDUxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSItMC4xN3MiPjwvYW5pbWF0ZT4KICA8L2NpcmNsZT4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIwOzM2MCIgZHVyPSIwLjk4MDM5MjE1Njg2Mjc0NTFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjE3cyI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2c+CjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MCA1MCkiPgo8Zz4KICA8Y2lyY2xlIGN4PSIxNCIgY3k9IjAiIHI9IjUiIGZpbGw9IiMzNzg0ZGQiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iciIga2V5VGltZXM9IjA7MC41OzEiIHZhbHVlcz0iMy41OTk5OTk5OTk5OTk5OTk2OzguMzk5OTk5OTk5OTk5OTk5OzMuNTk5OTk5OTk5OTk5OTk5NiIgZHVyPSIwLjczNTI5NDExNzY0NzA1ODhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjA4NXMiPjwvYW5pbWF0ZT4KICA8L2NpcmNsZT4KICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIwOzM2MCIgZHVyPSIwLjczNTI5NDExNzY0NzA1ODhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjI1NXMiPjwvYW5pbWF0ZVRyYW5zZm9ybT4KPC9nPgo8L2c+PC9nPgo8L3N2Zz4=" alt="loading" />
+      
+    </div>
+  </div>
+    <script>
+      // 兼容 IE11 crypto
+      window.crypto = window.crypto || window.msCrypto;
+      window.__portalPath__ = "//static.atomgit.com/statics/authing-fe-user-portal/2.29.86/"
+    </script>
+    <script
+      crossorigin="anonymous"
+      type="text/javascript"
+      src="//static.atomgit.com/statics/authing-fe-user-portal/2.29.86/text-encoder/encoding-indexes.js"
+    ></script>
+    <script
+      crossorigin="anonymous"
+      type="text/javascript"
+      src="//static.atomgit.com/statics/authing-fe-user-portal/2.29.86/text-encoder/encoding.js"
+    ></script>
+    <script
+      crossorigin="anonymous"
+      src="//static.atomgit.com/statics/authing-fe-user-portal/2.29.86/static/js/manifest.js"
+    ></script>
+    <script
+      crossorigin="anonymous"
+      src="//static.atomgit.com/statics/authing-fe-user-portal/2.29.86/static/js/vendor-main.js"
+    ></script>
+    <script
+      crossorigin="anonymous"
+      src="//static.atomgit.com/statics/authing-fe-user-portal/2.29.86/static/js/main.js"
+    ></script>
+  </body>
+</html>
